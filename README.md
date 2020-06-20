@@ -42,6 +42,17 @@ This data set contains the following features:</br>
 'Timestamp': Time at which consumer clicked on Ad or closed window</br>
 'Clicked on Ad': 0 or 1 indicated clicking on Ad
 </br>
+</br>
+
 5. Classfied Data (K Nearest Neighbors): You've been given a classified data set from a company! They've hidden the feature column names but have given you the data and the target classes.</br>
 
 We'll try to use KNN to create a model that directly predicts a class for a new data point based off of the features.</br>
+</br>
+
+6. Classified Data Project(KNN): Similar to 5
+
+7. Kyphosis(Trees and random forest)
+
+8. Loans(Trees and random forest)
+
+9. SVM Inbuilt data
