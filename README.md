@@ -1,5 +1,8 @@
 # ML_Projects
 
+tests
+tests1
+
 1. House Rates with Bostom Data (Linear Regression):Your neighbor is a real estate agent and wants some help predicting housing prices for regions in the USA. It would be great if you could somehow create a model for her that allows her to put in a few features of a house and returns back an estimate of what the house would sell for.</br>
 </br>
 She has asked you if you could help her out with your new data science skills. You say yes, and decide that Linear Regression might be a good path to solve this problem!</br>
@@ -55,4 +58,21 @@ We'll try to use KNN to create a model that directly predicts a class for a new 
 
 8. Loans(Trees and random forest)
 
-9. SVM Inbuilt data
+9. SVM Inbuilt data(breast cancer)
+
+10. Iris(SVM)
+
+11. sns created data through make_blobs(K Means)
+
+12. College Data(KMeans)
+
+13. PCA(cancer data)
+
+14. MovieData(Recommender Systems)
+
+15. Spam collection (NLP)
+
+16. Yelp (NLP Project)
+
+17. TF syntex basics
+
